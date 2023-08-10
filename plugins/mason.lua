@@ -14,7 +14,7 @@ return {
         "nil_ls",
         "yamlls",
         "docker_compose_language_service",
-        "tailwindcss",
+        -- "tailwindcss",
         "ansiblels",
         "arduino_language_server",
         "html",
